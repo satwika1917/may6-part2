@@ -1,0 +1,7 @@
+E={1:['G.S.S.Stwika','project manager','17january2022',19000,'Bangalore'],2:['vara','wed develper','19july2022',17000,'Bangalore'],3:['valli','error debuger','25july2022',74500,'Hyderabad']}
+x=int(input('Enter the number: '))
+print('Employee name : ',E[x][0])
+print('Employee designation: ',E[x][1])
+print('D.O.J : ',E[x][2])
+print(' Employee Salary : ',E[x][3])
+print('City : ',E[x][4])
